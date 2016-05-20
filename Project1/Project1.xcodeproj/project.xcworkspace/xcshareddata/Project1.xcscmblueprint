@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BCBBB954A09343280D4156D7ADA78EEA385B5B43",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "9f15348f-8f7c-2033-85d0-ce57b7db7bff++3334" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BCBBB954A09343280D4156D7ADA78EEA385B5B43" : 0,
+    "9f15348f-8f7c-2033-85d0-ce57b7db7bff++3334" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "44C958D8-B8AB-4EF5-890E-BDA983480976",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BCBBB954A09343280D4156D7ADA78EEA385B5B43" : "HackingWithSwift\/",
+    "9f15348f-8f7c-2033-85d0-ce57b7db7bff++3334" : "HackingWithSwift\/Project1\/Project1\/Content\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Project1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Project1\/Project1.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/twostraws\/HackingWithSwift",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9f15348f-8f7c-2033-85d0-ce57b7db7bff++3334"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aionda\/HackingWithSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BCBBB954A09343280D4156D7ADA78EEA385B5B43"
+    }
+  ]
+}
