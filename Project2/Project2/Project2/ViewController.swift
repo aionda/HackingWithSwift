@@ -20,7 +20,16 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        countries += ["estonia", "france", "germany", "ireland", "italy", "monaco", "nigeria", "poland", "russia", "spain", "uk", "us" ]
+        countries += ["estonia", "france", "germany", "ireland", "italy", "monaco", "nigeria", "poland", "russia", "spain", "uk", "us"]
+        
+        button1.layer.borderWidth = 1
+        button2.layer.borderWidth = 1
+        button3.layer.borderWidth = 1
+        
+        button1.layer.borderColor = UIColor.lightGrayColor().CGColor
+        button2.layer.borderColor = UIColor.lightGrayColor().CGColor
+        button3.layer.borderColor = UIColor.lightGrayColor().CGColor
+        
         askQuestion()
 
     }
